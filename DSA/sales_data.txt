@@ -1,0 +1,19 @@
+{
+  "bread": {
+    "white": 4,
+    "brown": 0,
+    "seeded": 1
+  },
+  "filling": {
+    "chicken": 1,
+    "tuna": 0,
+    "beef": 4,
+    "egg": 0,
+    "turkey": 0,
+    "cheese": 0
+  },
+  "size": {
+    "30cm": 5,
+    "15cm": 0
+  }
+}
